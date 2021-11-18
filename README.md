@@ -7,10 +7,10 @@ I used the general layout, but added some of my own design tweaks.
 The images used are from pexels.com and pixabay.com. Special thanks to the 
 authors ofthe images. Please find the sources below:
 
-Logo:
+Logo: <br />
 https://pixabay.com/images/id-575535/
 
-Rock Formation:
+Rock Formation: <br />
 https://www.pexels.com/photo/beach-black-and-white-cliff-dawn-268455/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels
 
 Rocks:
