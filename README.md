@@ -13,7 +13,7 @@ https://pixabay.com/images/id-575535/
 Rock Formation: <br />
 https://www.pexels.com/photo/beach-black-and-white-cliff-dawn-268455/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels
 
-Rocks:
+Rocks: <br />
 https://www.pexels.com/photo/macro-photo-mineral-2364228/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels
 
 https://www.pexels.com/photo/macro-photo-mineral-2364230/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels
