@@ -1,7 +1,7 @@
 # landing-page
 Landing page is one of the projects part of the Odin Foundations course.
 The purpose of this project was to build a web page from the design provided.
-I used the general layout, but added some of my own design tweaks.
+I used the general layout and added some of my own design tweaks.
 
 ## Credits
 The images used are from pexels.com and pixabay.com. Special thanks to the 
