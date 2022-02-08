@@ -22,5 +22,5 @@ https://www.pexels.com/photo/black-stone-2363901/?utm_content=attributionCopyTex
 
 https://www.pexels.com/photo/macro-photo-mineral-2363924/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels
 
-## Link <br />
+## Demo/Link <br />
 https://nullnurs.github.io/Odin-landing-page/
